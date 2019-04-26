@@ -11,7 +11,7 @@
     "start": "npm run clean && webpack --mode development",
     "build": "npm run clean && webpack --mode production",
     "server": "webpack-dev-server",
-    "github": "npm run build && git subtree push --prefix dist origin gh-pages"
+    "github": "npm run build && git subtree push --prefix dist wk9_hw gh-pages"
   },
   "keywords": [],
   "author": "",
